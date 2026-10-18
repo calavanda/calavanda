@@ -82,6 +82,6 @@ I specialize in building robust digital ecosystems, ranging from dynamic web das
 
 <div align="center">
   <br>
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+ <img height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
   <br/>
 </div>
